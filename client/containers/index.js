@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export App from './App.jsx';
 export Login from './Login';
 export RequireAuthentication from './RequireAuthentication';

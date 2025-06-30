@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Router as router } from 'express';
 import { middlewares } from 'auth0-extension-express-tools';
 

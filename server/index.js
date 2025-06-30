@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import path from 'path';
 import morgan from 'morgan';
 import Express from 'express';

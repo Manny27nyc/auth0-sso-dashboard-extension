@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import express from 'express';
 import metadata from '../../webtask.json';
 

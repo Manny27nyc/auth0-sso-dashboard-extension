@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { ForbiddenError } from 'auth0-extension-tools';
 
 export default (expectedScope) => (req, res, next) => {

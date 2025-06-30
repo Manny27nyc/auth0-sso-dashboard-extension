@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import expect from 'expect';
 import { deleteApplication } from '../../../client/reducers/deleteApplication';
 import * as constants from '../../../client/constants';

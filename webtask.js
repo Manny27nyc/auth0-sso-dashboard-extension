@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const tools = require('auth0-extension-express-tools');
 
 const expressApp = require('./server').default;

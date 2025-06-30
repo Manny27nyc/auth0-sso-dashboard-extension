@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromJS, Map } from 'immutable';
 
 import * as constants from '../constants';

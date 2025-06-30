@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 /* eslint-disable import/no-extraneous-dependencies */
 process.env.NODE_ENV = 'test';
 

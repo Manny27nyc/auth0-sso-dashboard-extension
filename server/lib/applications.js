@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Promise from 'bluebird';
 import { ArgumentError, NotFoundError } from 'auth0-extension-tools';
 

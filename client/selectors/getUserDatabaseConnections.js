@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { createSelector } from 'reselect';
 
 const getUserIdentities = (state) =>

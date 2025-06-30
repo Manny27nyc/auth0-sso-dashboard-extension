@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { fromJS } from 'immutable';
 import * as constants from '../constants';
 import createReducer from '../utils/createReducer';

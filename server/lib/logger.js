@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const winston = require('winston');
 
 winston.emitErrs = true;

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Promise from 'bluebird';
 import { ValidationError } from 'auth0-extension-tools';
 

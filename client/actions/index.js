@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * as applicationActions from './application';
 export * as groupsActions from './groups';
 export * as authActions from './auth';

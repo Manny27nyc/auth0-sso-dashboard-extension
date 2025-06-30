@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { snakeCase } from 'lodash';
 import Promise from 'bluebird';
 import { ArgumentError } from 'auth0-extension-tools';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { Router } from 'express';
 import { ForbiddenError } from 'auth0-extension-tools';
 import { middlewares } from 'auth0-extension-express-tools';

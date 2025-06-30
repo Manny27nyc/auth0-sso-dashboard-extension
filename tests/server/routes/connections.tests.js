@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import expect from 'expect';
 import Promise from 'bluebird';
 import request from 'supertest';

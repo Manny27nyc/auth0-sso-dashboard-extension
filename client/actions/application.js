@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import axios from 'axios';
 import { push } from 'react-router-redux';
 

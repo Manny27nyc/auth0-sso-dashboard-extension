@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export ApplicationHeader from './ApplicationHeader';
 export ApplicationOverview from './ApplicationOverview';
 export UserApplicationOverview from './UserApplicationOverview';

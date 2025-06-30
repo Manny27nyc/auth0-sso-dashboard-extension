@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import Immutable, { Map, List } from 'immutable';
 
 export default function createReducer(initialState, actionHandlers) {

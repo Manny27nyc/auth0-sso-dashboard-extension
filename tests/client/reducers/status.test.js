@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import expect from 'expect';
 import { status } from '../../../client/reducers/status';
 import * as constants from '../../../client/constants';

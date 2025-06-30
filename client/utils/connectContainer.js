@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { connect } from 'react-redux';
 
 const defaultMapStateToProps = (state) => state;

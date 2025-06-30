@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { combineReducers } from 'redux';
 import { reducer as formReducer } from 'redux-form';
 import { routerReducer } from 'react-router-redux';
